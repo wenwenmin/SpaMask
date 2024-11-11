@@ -11,4 +11,4 @@ In this study, we propose **a spatial transcriptomics analysis method based on d
 
 ## Get Started
 We provided codes for reproducing the experiments of the paper, and comprehensive tutorials for using SpaMask.
-- Please see `TutorialDonor`.
+- Please see `TutorialDonor.ipynb`.
