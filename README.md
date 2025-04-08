@@ -32,4 +32,4 @@ We provided codes for reproducing the experiments of the paper, and comprehensiv
 
 ## Article link
 
-[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012881](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012881)
+- [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012881](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012881)
