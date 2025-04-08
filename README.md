@@ -15,7 +15,7 @@ We provided codes for reproducing the experiments of the paper, and comprehensiv
 - Please see `TutorialDonor.ipynb`.
 
 
-## Citing
+## 🔥Citing
 <p>The corresponding BiBTeX citation are given below:</p>
 <div class="highlight-none"><div class="highlight"><pre>
 @article{min2025spamask,
