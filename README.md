@@ -29,3 +29,7 @@ We provided codes for reproducing the experiments of the paper, and comprehensiv
   publisher={Public Library of Science San Francisco, CA USA}
 }
 </pre></div>
+
+## Article link
+
+[https://doi.org/10.1093/bib/bbae630](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012881)
