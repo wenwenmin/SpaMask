@@ -13,3 +13,19 @@ Understanding the spatial locations of cell within tissues is crucial for unrave
 ## 🚀 Get Started
 We provided codes for reproducing the experiments of the paper, and comprehensive tutorials for using SpaMask.
 - Please see `TutorialDonor.ipynb`.
+
+
+## Citing
+<p>The corresponding BiBTeX citation are given below:</p>
+<div class="highlight-none"><div class="highlight"><pre>
+@article{min2025spamask,
+  title={SpaMask: Dual masking graph autoencoder with contrastive learning for spatial transcriptomics},
+  author={Min, Wenwen and Fang, Donghai and Chen, Jinyu and Zhang, Shihua},
+  journal={PLOS Computational Biology},
+  volume={21},
+  number={4},
+  pages={e1012881},
+  year={2025},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+</pre></div>
